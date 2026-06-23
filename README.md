@@ -44,7 +44,7 @@ GET: Get all issued books with their fine amount
 
 >> If a user missed the renewal date, then user should be collected with $100
 >> If a user misses his subscription, then user is expected to pay $100
->> If a user misses both renewal & subscription, then the collected amount should be $500
+>> If a user misses both renewal & subscription, then the collected amount should be $200
 
 
 ## Commands:
@@ -52,4 +52,4 @@ npm init
 npm i express
 npm i nodemon --save-dev
 
-npm run dev
+npm run dev ---> To start the Application.
