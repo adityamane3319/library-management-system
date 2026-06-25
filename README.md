@@ -53,3 +53,20 @@ npm i express
 npm i nodemon --save-dev
 
 npm run dev ---> To start the Application.
+
+
+## Commands: MongoDB
+npm i mongoose
+
+
+mongodb://adityamane3319_db_user:Ubk0Csf9iWzjcAv3@ac-0dlamob-shard-00-00.xgoppca.mongodb.net:27017,ac-0dlamob-shard-00-01.xgoppca.mongodb.net:27017,ac-0dlamob-shard-00-02.xgoppca.mongodb.net:27017/?ssl=true&replicaSet=atlas-d6q15l-shard-0&authSource=admin&appName=Cluster0
+
+
+npm i dotenv
+
+## MVC Architecture
+    >> M: Model (Structure of our MongoDB Collection)
+    >> V: View (FrontEnd)
+    >> C: Controllers (Brain / Logic of your Route)
+
+
